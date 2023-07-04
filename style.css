@@ -24,6 +24,8 @@ button {
 }
 img {
     display: block;
+    border: none;
+    width: 50%;
 }
 footer {
     font-size: 20px;
