@@ -23,9 +23,9 @@ button {
     font-size: 40px;
 }
 img {
-    display: block;
-    width: 50%;
+    display: inline;
+    width: 70%;
 }
 footer {
-    font-size: 10px;
+    font-size: 15px;
 }
